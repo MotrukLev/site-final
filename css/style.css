@@ -1,0 +1,1094 @@
+@import url('https://fonts.googleapis.com/css2?family=Licorice&family=Montserrat:wght@400;700&display=swap');
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px, auto;
+    font-size: 16px;
+}
+.name-logo {
+    margin-bottom: 15px;
+}
+.main_txt {
+    margin-bottom: 20px;
+}
+.tecology {
+    margin-bottom: 50px;
+}
+body .container {
+    margin: 0px, 0px;
+}
+.main_txt {
+    padding-bottom: 20px;
+}
+html {
+    max-width: 1580px;
+}
+.ftr {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+.main_div-content {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.links {
+    display:inline-flex;
+    text-decoration: none;
+    margin-left: 230px;
+}
+.links-logo {
+    background-image: url(../img/ovsanoe.png);
+    background-repeat: no-repeat;
+    max-width: 75px; height: 75px;
+    margin-left: 175px;
+}
+.links :hover {
+    background-color: black;
+    color: black;
+}
+main {
+    background-color: rgb(236, 236, 236);
+}
+
+.section_main-cookiie {
+    object-position: center bottom;
+    margin-left: 180px;
+}
+.link_img {
+    padding-right: 30px;
+}
+.main_txt {
+    text-align: center;
+    padding-top: 30px;
+    text-decoration: dotted chocolate;
+    font-weight: 900;
+}
+.main_txt:hover {
+    color: blue;
+}
+.tbl-p_cntnt {
+    padding-top: 10px;
+}
+b {
+    font-weight: 900;
+}
+.about_main-content {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.ftr__content {
+    text-align: center;
+}
+.ftr {
+    text-align: center;
+}
+.link__name-team {
+    text-align: center;
+    padding: 60px;
+    text-decoration: none;
+    font-weight: 600;
+    color: black;
+}
+.link__img-team {
+    color: white;
+}
+.sect__main {
+    background-image: url(../img/cookie-star.png);
+    background-repeat: repeat;
+    background-position: right;
+    background-size: 300px 300px;
+}
+.ftr__content {
+    text-align: left;
+}
+.about-span {
+    font-weight: 600;
+}
+.about_main-content {
+    padding-top: 30px;
+}
+.map-toggle_span {
+    text-align: center;
+    align-items: center;
+}
+
+.map-position_txt {
+    text-align: center;
+    padding-top: 40px;
+    font-weight: 600;
+}
+.main-map {
+    background-color: white;
+}
+.map-tgl {
+    image-orientation: flip;
+}
+.map--button {
+    align-items: center;
+    text-align: center;
+}
+button {
+    color: white;
+    font-weight: 600;
+    max-width: 150px;
+    height: 50px;
+    background-color: chocolate;
+    
+}
+button:hover {
+    transform: scale(1.25);
+    transition-duration: 0.7s;
+}
+.section_main-cookiie-index {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.cookies-email {
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    padding-top: 10px;
+}
+.cookies-email:hover {
+    color: blue;
+    border-bottom: 3px solid blue;
+}
+.map-position_txt {
+    margin-top: 50px;
+}
+.email {
+    text-decoration: none;
+    color: white;
+    padding-top: 10px;
+}
+.email:hover {
+    color: blue;
+    border-bottom: 3px solid blue;
+}
+footer {
+    background-color: rgb(168, 139, 118);
+    color: white;
+    font-weight: 600;
+    margin-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+.cntr {
+    text-align: center;
+    padding-top: 10px;
+}
+.cntr {
+    padding-bottom: 25px;
+    padding-top: 50px;
+    text-align: center;
+    font-weight: 500;
+}
+.team-lev-and-egor {
+    display: flex;
+}
+.team-dima-and-vlad {
+    display: flex;
+}
+.team__div {
+    align-items: center;
+}
+.shadow-lg {
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.shadow {
+    width: 378px;
+}
+.p-3 {
+    margin-left: 100px;
+}
+.name--lev {
+    text-decoration: none;  
+    margin-left: 45px;
+    color: black;
+    font-weight: 900;
+}
+.team-egor-photo {
+    margin-left: 30px;
+}
+.map--button {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.team-egor {
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.team-dima {
+    margin-left: -40px;
+}
+.section-special-menu__main-cookies {
+    display: flex;
+    margin-left: 150px;
+}
+.arahis-cookie {
+    margin-left: 125px;
+}
+.arahis-cookie:hover {
+    color: chocolate;
+    font-weight: 600;
+}
+.myata-with-arahis-cookie {
+    margin-left: 90px;
+}
+.myata-with-arahis-cookie:hover {
+    color: chocolate;
+    font-weight: 600;
+}
+.chocolate-with-arahis-cookie {
+    margin-left: 80px;
+}
+.chocolate-with-arahis-cookie:hover {
+    color: chocolate;
+    font-weight: 600;
+}
+.raspberry-with-arahis {
+    margin-left: 85px;
+}
+.raspberry-with-arahis:hover {
+    color: chocolate;
+    font-weight: 600;
+}
+.btn-ib2 {
+    margin-top: 25px;
+    margin-left: -110px;
+}
+.into-a-basket1 {
+    margin-top: 25px;
+}
+.team-lev {
+    margin-left: -40px;
+}
+.team-vlad {
+    margin-left: 50px;
+}
+.team-lev {
+    margin-top: 50px;
+    padding-bottom: 20px;
+}
+.egor-photo {
+    margin-left: 110px;
+    padding-top: 50px;
+}
+.name--egor {
+    text-decoration: none;
+    margin-left: 45px;
+    color: black;
+    font-weight: 900;
+}
+.name--dima {
+    text-decoration: none;
+    margin-left: 20px;
+    color: black;
+    font-weight: 900;
+}
+.vlad-photo {
+    margin-left: 90px;
+}
+.name--vlad {
+    text-decoration: none;
+    margin-left: 20px;
+    color: black;
+    font-weight: 700;
+}
+.contacts {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 4px;
+}
+.c-in_cercle {
+    font-weight: 0;
+}
+.contacts_us {
+    text-align: center;
+    font-weight: 600;
+}
+.contacts--hr {
+    align-items: center;
+    margin-left: 731px;
+}
+.links {
+    margin-bottom: 30px;
+    font-weight: 800;
+    color: chocolate
+}
+.links:hover {
+    color: orangered;
+    transform: scale(1.25);
+    transition-duration: 0.7s;
+}
+.links-logo:hover {
+    transform: rotate(360deg);
+    transition-duration: 2s;
+}
+.contact-lev {
+    margin-top: 20px;
+    max-width: 390px;
+}
+.com-with_me:hover {
+    border-bottom: 2px solid chocolate;
+    border-top: 2px solid chocolate;
+}
+.name--lev:hover {
+    border-bottom: 2px solid blue;
+    color: blue;
+}
+.name--egor:hover {
+    border-bottom: 2px solid blue;
+    color: blue;
+}
+.name--dima:hover {
+    border-bottom: 2px solid blue;
+    color: blue;
+}
+.name--vlad:hover {
+    border-bottom: 2px solid blue;
+    color: blue;
+}
+.contact-lev:hover {
+    transform: scale(1.15);
+    transition-duration: 0.7s;
+    max-width: 390px;
+    height: 25px;
+    margin-left: 20px;
+}
+.contact-egor:hover {
+    transform: scale(1.15);
+    transition-duration: 0.7s;
+    max-width: 475px;
+    height: 25px;
+    margin-left: 20px;
+}
+main {
+    background-color: white;
+}
+.contact-dima:hover {
+    transform: scale(1.15);
+    transition-duration: 0.7s;
+    max-width: 360px;
+    height: 25px;
+    margin-left: 20px;  
+}
+.contact-vlad:hover {
+    transform: scale(1.15);
+    transition-duration: 0.7s;
+    max-width: 475px;
+    height: 25px;
+    margin-left: 20px;    
+}
+.team__div{
+    margin-left: 450px;
+}
+h2 {
+    text-align: center;
+    margin-top: -5px;
+    margin-right: 25px;
+    margin-bottom: 50px;
+}
+.section-special-menu {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin: -5px;
+}
+.cookie-item {
+    margin: 30px;
+}
+.section-main-name {
+    color: white;
+    font-weight: 500;
+    margin-left: 20px;
+    margin-bottom: 45px;
+    margin-top: 20px;
+    max-width: 200px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+}
+.section-main-name:hover {
+    border-right: 3px double white;
+    border-left: 3px double white;
+}
+.cookie-item {
+    max-width: 250px;
+    height: 250px;
+    margin-left: 90px;
+}
+.cookie-item:hover {
+    transform: rotate(90deg);
+    transition: 1.5s;
+}
+.cookie-text {
+    color: grey;
+    padding: 10px;
+}
+.arahis {
+    margin-left: 115px;
+}
+.arahis:hover {
+    color: white;
+}
+.myata-and-arahis {
+    margin-left: 175px;
+}
+.myata-and-arahis:hover {
+    color: white;
+}
+.chocolate {
+    margin-left: 155px;
+}
+.chocolate:hover {
+    color: white;
+}
+.chocolate-with-arahis {
+    margin-left: 150px;
+}
+.chocolate-with-arahis:hover {
+    color: white;
+}
+.section-special-menu__main-cookies {
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+.into-a-basket1 {
+    margin-left: 165px;
+}
+.into-a-basket2 {
+    margin-left: 285px;
+}
+.into-a-basket3 {
+    margin-left: 275px;
+}
+.into-a-basket4 {
+    margin-left: 285px;
+}
+.order {
+    background-color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+.order-packing {
+    margin-left: 20px;
+    font-weight: 700;
+    padding-bottom: 50px;
+}
+.username {
+    font-weight: 675;
+}
+.place-an-order {
+    font-weight: 500;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-top: 30px;
+}
+.place-an-order:hover {
+    border: 3px dotted chocolate;
+}
+.password-for-account {
+    font-weight: 675;
+}
+.forgot-password {
+    text-decoration: none;
+    color: blue;
+    font-weight: 500;
+    margin-top: -20px;
+}
+.done {
+    background-color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+button {
+    text-decoration: none;
+    color: white;
+}
+.sweety {
+    margin-left: 300px;
+}
+.sweety1 {
+    margin-left: 200px;
+}
+a .btn-order {
+    text-decoration: none;
+    color: white;
+}
+.vostacc {
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.your-tel {
+    font-weight: 700;
+    padding-bottom: 25px;
+}
+.container-tel {
+    font-weight: 600;
+}
+.inp {
+    margin-bottom: 20px;
+}
+.your-email {
+    font-weight: 600;
+}
+.your-password {
+    font-weight: 600;
+    margin-top: 40px;
+}
+.input_last-password {
+margin-bottom: 30px;
+}
+.link-forgot-last-password {
+    text-decoration: none;
+    color: blue;
+    margin-top: 50px;
+}
+.forgot-last-password {
+    text-decoration: none;
+    color: blue;
+    margin-top: 20px;
+}
+button {
+    border-radius: 50px;
+}
+
+#cookie_bg {
+    background-color: #000;
+}
+.forgot-last-password:hover {
+    color: rgb(255, 0, 0);
+    font-weight: 900;
+    transform: scale(1.25);
+    transition-duration: 0.7s;
+}
+button {
+    text-decoration: none;
+    font-weight: 800;
+    color: white;
+}
+.your-name {
+    text-align: center;
+    background-color: white;
+    margin-top: 40px;
+    font-weight: 800;
+}
+.div_new-password {
+    background-color: white;
+}
+.name_password {
+    margin-top: 50px;
+}
+.button_password {
+    color: white;
+    margin-left: 695px;
+    margin-top: 10px;
+    text-align: center;
+}
+.main_password-change {
+    background-color: white;
+    align-items: center;
+    text-align: center;
+}
+.password-is-changed {
+    text-align: center;
+    margin-top: 100px;
+}
+.button-password-change {
+    color: white;
+    text-decoration: none;
+    margin-top: 40px;
+}
+.button-password {
+    margin-left: 700px;
+    margin-top: 50px;
+}
+.button-back {
+    margin-top: 30px;
+}
+.shadow-lg {
+    background-color: black;
+    color: black;
+    width: 450px;
+    background: black;
+    box-shadow: 7px 7px 5px rgba(0, 0, 0, 6);
+    border-radius: 10px;
+}
+.nav-links {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.link_img {
+    margin-right: 200px;
+}
+.links-about {
+    color: chocolate;
+    text-decoration: none;
+    font-weight: 700;
+    margin-right: 100px;
+}
+.forgot-password {
+    margin-top: 50px;
+}
+.relog-password {
+    margin-left: -125px;
+    height: 60px;
+}
+.button-done-1 {
+    margin-top: -10px;
+}
+.forgot-password:hover {
+    color: rgb(255, 0, 0);
+    font-weight: 900;
+    transform: scale(1.25);
+    transition-duration: 0.7s;
+}
+.button-done {
+    margin-top: 50px;
+}
+.legend-order {
+    margin-bottom: 25px;
+}
+.links-about:hover {
+    color: orangered;
+}
+.sect-hr {
+    margin-left: -50px;
+}
+.links-catalog {
+    color: chocolate;
+    text-decoration: none;
+    font-weight: 700;
+}
+.links-catalog:hover {
+    color: orangered;
+    transform: scale(1.25);
+    transition-duration: 0.7s;
+}
+.links-order {
+    color: chocolate;
+    text-decoration: none;
+    font-weight: 700;
+    margin-left: 100px;
+}
+.links-order:hover {
+    color: orangered;
+    transform: scale(1.25);
+    transition-duration: 0.7s;
+}
+.links-login {
+    color: chocolate;
+    text-decoration: none;
+    font-weight: 700;
+    margin-left: 100px;
+}
+.links-login:hover {
+    color: orangered;
+    transform: scale(1.25);
+    transition-duration: 0.7s;
+}
+.cookie__img {
+    display: flex;
+    /*justify-content: center;*/
+    flex-wrap: wrap;
+    gap: 40px;
+}
+#cookie_bg {
+    height: 375px;
+}
+#cookie-img {
+    margin-left: 60px;
+}
+.cookie__img {
+    margin-left: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.cookie {
+    width: 350px;
+    height: 350px;
+    display: flex;
+    border: 2px solid white;
+    border-radius: 40px;
+    gap: 20px;
+    flex-direction: column;
+    background-color: #000;
+}
+.raspberry-with-arahis-link {
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+}
+.chocolate-with-arahis-cookie-link {
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+}
+.myata-with-arahis-cookie-link {
+    text-decoration: none;
+    color: white;
+    margin-left: 50px;
+}
+.arahis-cookie-link {
+    text-decoration: none;
+    color: white;
+    margin-left: 90px;
+}
+.raspberry-with-arahis-link:hover {
+    color: chocolate;
+    font-weight: 500;
+}
+.chocolate-with-arahis-cookie-link:hover {
+    color: chocolate;
+    font-weight: 500;
+}
+.myata-with-arahis-cookie-link:hover {
+    color: chocolate;
+    font-weight: 500;
+}
+.arahis-cookie-link:hover {
+    color: chocolate;
+    font-weight: 500;
+}
+.header_nav-div-catalog {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 100px;
+}
+.header_nav-div-catalog-catalog {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+.main-txt-about {
+    font-size: 16px;
+}
+#about-span {
+    font-size: 16px;
+}
+.about-span {
+    font-size: 16px;
+}
+.cookie-div {
+    display: flex;
+    flex-wrap: wrap;
+}
+@media screen and (max-width:1400px) {
+    .container {
+        width: 1400px;
+    }
+    .cookie__img {
+        margin-left: 100px;
+        width: 1000px;
+    }
+}
+@media screen and (max-width:1200px) {
+    ul {
+        width: 1000px;
+    }
+    .links-logo {
+        margin-left: -80px;
+    }
+    .links-about {
+        margin-left: -50px;
+    }
+    .section_main-cookiie-index {
+        width: 1200px;
+        margin-left: -100px;
+    }
+    #about-span {
+        font-size: 14px;
+    }
+    .team__div {
+        margin-left: 350px;
+    }
+    .section-special-menu__main-cookies {
+        margin-left: 10px;
+    }
+    .ftr__content {
+        width: 1200px;
+    }
+    .main-catalog {
+        width: 1200px;
+        margin: 0px, 0px;
+    }
+    .nav-links {
+        margin: 0px, 0px;
+    }
+    .relog-password {
+        margin-left: -215px;
+    }
+    .container {
+        width: 1200px;
+    }
+    .nav-links {
+        margin-right: 30px;
+        text-align: center;
+    }
+    .header_nav-div-catalog-catalog {
+        margin-right: 20px;
+    }
+    .cookie__img {
+        width: 1000px;
+        gap: 90px;
+        align-items: center;
+        margin-left: 200px;
+    }
+    #password {
+        width: 150px;
+    }
+    #name {
+        width: 200px;
+    }
+    .inp {
+        width: 200px;
+    }
+    #email {
+        width: 200px;
+    }
+    #last-password {
+        width: 200px;
+    }
+    footer {
+        width: 1200px;
+    }
+}
+@media screen and (max-width:992px) {
+    .container {
+        width: 992px;
+        font-size: 18px;
+    }
+    .section_main-cookiie-index {
+        width: 992px;
+        margin-left: 120px;
+    }
+    .section-special-menu { 
+        width: 992px;
+    }
+    .cookie__img {
+        width: 992px;
+    }
+    .cookie-div {
+        margin-left: -100px;
+    }
+    .nav-links {
+        width: 992px;
+    }
+    .header_nav-div-catalog-catalog {
+        width: 992px;
+    }
+    header {
+        width: 992px;
+    }
+    .frt {
+        width: 992px;
+    }
+    .ftr-order {
+        width: 992px;
+    }
+    .ftr__content {
+        width: 992px;
+    }
+    .team-lev-and-egor, .team-dima-and-vlad {
+        margin-left: -90px;
+    }
+    .relog-password {
+        margin-left: -310px;
+    }
+}
+@media screen and (max-width: 768px) {
+   .container {
+    width: 768px;
+    font-size: 16px;
+   }
+   .main_div-content {
+    margin-left: -110px;
+   }
+   ul {
+    width: 768px;
+   }
+   .nav-links {
+    width: 768px;
+    margin-left: -100px;
+   }
+   .links-logo {
+    margin-left: 75px;
+   }
+   .links-about {
+    margin-left: -150px;
+   }
+   .links-catalog {
+    margin-left: -50px;
+   }
+   .links-order {
+    margin-left: 50px;
+   }
+   .links-login {
+    margin-left: 50px;
+   }
+   header {
+    width: 768px;
+   }
+   .main_txt, .main__txt, .tecology {
+    width: 700px;
+    margin-left: 100px;
+   }
+   .ftr {
+    width: 768px;
+    margin-left: 10px;
+   }
+   .ftr__content {
+    width: 768px;
+   }
+   .my-team {
+    width: 768px;
+    margin-left: -80px;
+   }
+   .team-egor {
+    width: 200px;
+    margin-left: 10px;
+   }
+   .name--egor {
+    margin-left: 90px;
+   }
+   .team-vlad {
+    width: 200px;
+    margin-left: 40px;
+   }
+   .team-dima {
+    width: 200px;
+   }
+   .team-lev {
+    width: 200px;
+   }
+   .team-lev-and-egor, .team-dima-and-vlad {
+    margin-left: -200px;
+   }
+   .section-special-menu {
+    width: 768px;
+   }
+   .cookie-div {
+    width: 700px;
+    margin-left: 30px;
+   }
+   .section-main-name {
+    margin-left: 300px;
+   }
+   .relog-password {
+    width: 200px;
+    margin-left: -430px;
+   }
+}
+@media screen and (max-width: 576px) {
+    .container {
+        width: 576px;
+        font-size: 16px;
+    }
+    .nav-links {
+        margin-left: -10px;
+    }
+    ul {
+        width: 576px;
+    }
+    .links-logo {
+        margin-left: -100px;
+    }
+    .links-about {
+        margin-left: -200px;
+    }
+    .links-order {
+        margin-left: 50px;
+    }
+    .my-team {
+        width: 300px;
+        margin-left: 100px;
+    }
+    .team-lev-and-egor, .team-dima-and-vlad {
+        margin-left: -250px;
+    }
+    .ftr {
+        width: 576px;
+        font-size: 14px;
+        margin-left: -35px;
+    }
+    .ftr__content {
+        width: 576px;
+    }
+    .header_nav-div-catalog-catalog {
+        width: 576px;
+    }
+    .links-ul {
+        width: 576px;
+    }
+    .nav-links {
+        width: 576px;
+        margin-left: 20px;
+    }
+    .section-main-name {
+        width: 576px;
+        margin-left: 200px;
+    }
+    .section-special-menu {
+        width: 576px;
+    }
+    .cookie-div {
+        width: 576px;
+        margin-left: -75px;
+    }
+    .ftr {
+        width: 576px;
+        margin-left: 2px;
+    }
+    .ftr__content {
+        width: 576px;
+    }
+    .ftr-order {
+        width: 576px;
+    }
+    #nav-links-order {
+        margin-left: -100px;
+    }
+    .relog-password {
+        margin-left: -515px;
+    }
+    #nav-links-pass {
+        margin-left: -100px;
+    }
+    #nav-links-index {
+        margin-left: -100px;
+    }
+    #nav-links-login {
+        margin-left: -100px;
+    }
+}
+@media screen and (max-width: 378px) {
+    .container {
+        width: 378px;
+        font-size: 14px;
+    }
+    .nav-links {
+        width: 378px;
+    }
+    ul {
+        width: 378px;
+        margin-left: 150px;
+    }
+    .links-order {
+        margin-left: 20px;
+    }
+    .main__txt, .main_txt, .main_div-content {
+        width: 378px;
+    }
+    .tecology {
+        width: 300px;
+        margin-left: 150px;
+    }
+}
